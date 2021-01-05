@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "@types/mocha": "^5.2.7",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "botbuilder": "^4.4.0",
     "botbuilder-ai": "^4.4.0",
     "dark-sky": "^1.1.5",
